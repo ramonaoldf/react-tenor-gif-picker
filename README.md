@@ -2,7 +2,7 @@
 
 react-tenor-gif-picker is a React component that allows you to easily add a Tenor GIF picker to your React app.
 
-[![npm](https://img.shields.io/npm/v/react-tenor-gif-picker?color=brightgreen)](https://www.npmjs.com/package/react-tenor-gif-picker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheAlphamerc%2Freact-tenor-gif-picker&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![npm](https://img.shields.io/npm/v/react-tenor-gif-picker?color=brightgreen)](https://www.npmjs.com/package/react-tenor-gif-picker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framonaoldf%2Freact-tenor-gif-picker&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Live Demo
 
